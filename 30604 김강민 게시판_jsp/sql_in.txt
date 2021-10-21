@@ -103,3 +103,4 @@ insert into page_prac (id, title, name) values (97, 'Latacunga', 'Vassili');
 insert into page_prac (id, title, name) values (98, 'Perdoes', 'Flo');
 insert into page_prac (id, title, name) values (99, 'Guayabo Dulce', 'Arline');
 insert into page_prac (id, title, name) values (100, 'Fresno', 'Agna');
+commit;
